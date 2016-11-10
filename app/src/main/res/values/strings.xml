@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Rating App</string>
+
+    <string name="rating_example">4.5</string>
+    <string name="empty_view_text">Please check for internet connection</string>
+
+    <!--Menu Titles-->
+    <string name="poster_menu_setting">Setting</string>
+    <string name="poster_menu_search">Search</string>
+
+    <!--Fragments-->
+    <string name="fragment_favorite">Favorite</string>
+    <string name="fragment_movies">Movies</string>
+
+    <!--Setting-->
+    <string name="popularity">Sort by Popularity</string>
+    <string name="newest">Sort by Newest</string>
+    <string name="highest_rating">Sort by Highest Rating</string>
+    <string name="search_hint">Search for movie</string>
+
+    <!--Activity Movie Detail-->
+    <string name="released_on">released on</string>
+    <string name="synopsis">synopsis</string>
+    <string name="rating">rating</string>
+    <string name="favorite">Add to Favorite!</string>
+
+    <!--Favorite Related-->
+    <string name="added_to_favorite">Added To Favorites</string>
+    <string name="remove_from_favorite">Removed From Favorites</string>
+    <string name="no_favorite_items">No Favorites</string>
+
+    <string name="casts">Casts</string>
+
+    <string name="action_favorite">Go To Favorite</string>
+    <string name="action_list">Go To Movie List</string>
+</resources>
